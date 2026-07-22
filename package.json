@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+  "
+    "url": "git+https://github.com/yhubham/Bank-Transaction-System-.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yhubham/-Advanced-Backend-Project-/issues"
+    "url": "https://github.com/yhubham/Bank-Transaction-System-/issues"
   },
-  "homepage": "https://github.com/yhubham/-Advanced-Backend-Project-#readme",
+  "homepage": "https://github.com/yhubham/Bank-Transaction-System-/#readme",
   "keywords": [],
   "description": "",
   "dependencies": {
